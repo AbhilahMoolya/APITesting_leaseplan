@@ -1,13 +1,9 @@
 package starter;
 
 import org.junit.Assert;
-import org.openqa.selenium.json.Json;
 import starter.pojo.Product;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.util.List;
 
-public class common {
+public class ProductVerification {
 
     public static String colaTitle = "First Choice Cola regular;Highway Cola light;Coca-cola Original taste;Pepsi Cola;First Choice Cola cafeïne  vrij;Pepsi Cola max;Coca-cola Zero sugar;Coca-Cola Zero sugar;Coca-Cola Light Taste;Coca-Cola Blik;Coca-cola zero sugar 4*1.5L;First Choice Cola;Coca-cola Original taste ;Coca-Cola Zero Sugar PET fles;Coca-Cola Regular;Coca-cola Zero sugar;Coca-Cola Blik;Cola zero;Cola regular;g'woon Cola";
 

@@ -8,7 +8,7 @@ import net.serenitybdd.rest.SerenityRest;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
-import starter.common;
+import starter.ProductVerification;
 import starter.pojo.Product;
 import starter.productResponse;
 
@@ -54,12 +54,12 @@ public class SearchStepDefinitions {
             for (Product prod : productList) {
                 if (product.equalsIgnoreCase("cola")) {
                     System.out.println(prod.getTitle());
-                    Assert.assertTrue(common.colaTitle.contains(prod.getTitle()));
+                    Assert.assertTrue(ProductVerification.colaTitle.contains(prod.getTitle()));
                 }
                 if (product.equalsIgnoreCase("pasta")) {
 //                    Assert.assertTrue(common.pastaTitle.contains(title));
 
-                        common.validation(prod.getProvider(), prod.getTitle(), prod.getUrl(), prod.getBrand(), prod.getPrice(), prod.getUnit(), prod.getImage());
+                    ProductVerification.validation(prod.getProvider(), prod.getTitle(), prod.getUrl(), prod.getBrand(), prod.getPrice(), prod.getUnit(), prod.getImage());
 
 
                 }
