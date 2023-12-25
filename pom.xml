@@ -109,12 +109,12 @@
         <repository>
             <id>central</id>
             <name>a0jfsyiy82n4q-artifactory-primary-0-releases</name>
-            <url>${env.MAVEN_REPO_URL}/default-maven-local</url>
+            <url>https://mvnrepository.com/</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>a0jfsyiy82n4q-artifactory-primary-0-snapshots</name>
-            <url>${env.MAVEN_REPO_URL}/default-maven-local</url>
+            <url>https://mvnrepository.com/</url>
         </snapshotRepository>
     </distributionManagement>
 

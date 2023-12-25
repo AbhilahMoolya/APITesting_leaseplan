@@ -22,7 +22,7 @@ Feature: Search for the product
 
   Examples:
     | product |
-#    | pasta   |
-#    | apple   |
-#    | orange  |
-    | cola    |
+    | pasta   |
+    | apple   |
+    | orange  |
+#    | cola    |
