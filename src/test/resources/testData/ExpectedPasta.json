@@ -1,0 +1,222 @@
+[
+  {
+    "provider": "Coop",
+    "title": "PLUS Mini penne volkoren",
+    "url": "https://www.coop.nl/product/8718989814595",
+    "brand": "Superunie",
+    "price": 1.04,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/8c1e0c00-3a24-000d-0272-08dbef5b248c/images/AW0HA3GItENDpZ-NPK0ohvI./AAAAWQYQ8zr1-Qjb8O_0KA.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Selezione Ristorante Gevulde pasta paddenstoelen",
+    "url": "https://www.coop.nl/product/8710624367411",
+    "brand": "Superunie",
+    "price": 2.99,
+    "unit": "250 g",
+    "isPromo": true,
+    "promoDetails": "1 + 1 gratis",
+    "image": "https://syndy-content.azureedge.net/media/products/505b0000-ff27-0003-dcff-08d832337ed3/images/AW0HA3GItENDpZ-NPK0ohvI./AAD9gCf-AwBLCQjYU6vrvA.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Grand'Italia pipe rigate",
+    "url": "https://www.coop.nl/product/8000050839829",
+    "brand": "GranFood B.V.",
+    "price": 1.89,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/a58711fe-2972-46e6-b0e8-347a97b2984f/images/AW0HA3GItENDpZ-NPK0ohvI./AAUGDCQ6DQBH9wjbzuFe0g.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Grand'Italia Pasta penne all'uovo",
+    "url": "https://www.coop.nl/product/8000050026113",
+    "brand": "GranFood B.V.",
+    "price": 2.68,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/5c290000-ff27-0003-bd14-08d6ac4a1a61/images/AW0HA3GItENDpZ-NPK0ohvI./AADDJSf-AwAONAjXzOl8mA.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Unox Good pasta spag.bolog",
+    "url": "https://www.coop.nl/product/8714100826492",
+    "brand": "Unilever Nederland B.V.",
+    "price": 1.84,
+    "unit": "68 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/62160000-5d4a-0015-7a18-08d61facaece/images/AW0HA3GItENDpZ-NPK0ohvI./AAAmWCf-AwCdcAjbKp06DQ.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Unox Good Pasta kaas",
+    "url": "https://www.coop.nl/product/8714100829769",
+    "brand": "Unilever Nederland B.V.",
+    "price": 1.84,
+    "unit": "69 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/62160000-5d4a-0015-47c1-08d61facae1d/images/AW0HA3GItENDpZ-NPK0ohvI./AAwYDCQ6DQBXKAjbs3Oo9w.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Grand'Italia Pasta penne tradizionali",
+    "url": "https://www.coop.nl/product/8000050838921",
+    "brand": "GranFood B.V.",
+    "price": 1.89,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/534e135b-0185-43f9-89c2-98e9df39b73e/images/AW0HA3GItENDpZ-NPK0ohvI./AAB4bSf-AwAkRgjZFEIMUg.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "PLUS Pipe rigate",
+    "url": "https://www.coop.nl/product/8718989814557",
+    "brand": "Superunie",
+    "price": 1.19,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/20190100-3a24-000d-b6ba-08dbc8d35b49/images/AW0HA3GItENDpZ-NPK0ohvI./AAwY_CQ6DQAV6gjb32rBhA.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Ankara Spaghetti",
+    "url": "https://www.coop.nl/product/8690576029004",
+    "brand": "Inno Food Company B.V.",
+    "price": 1.14,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/1dc48a27-0de9-415a-b291-c6789a7c7e23/images/AW0HA3GItENDpZ-NPK0ohvI./AADDJSf-AwCW9wjXzOp5EQ.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "PLUS penne rigate",
+    "url": "https://www.coop.nl/product/8718989814571",
+    "brand": "Superunie",
+    "price": 0.95,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://aosa.org/wp-content/uploads/2019/04/image-placeholder-350x350.png"
+  },
+  {
+    "provider": "Coop",
+    "title": "Knorr Tomaten penne",
+    "url": "https://www.coop.nl/product/8720182524836",
+    "brand": "Unilever Nederland B.V.",
+    "price": 3.14,
+    "unit": "300 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/5a130000-ff27-0003-2cf1-08dab0f6b1d1/images/AW0HA3GItENDpZ-NPK0ohvI./AAATWif-AwDCjgjavJd6gQ.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Knorr Groentepasta spaghetti tomaat",
+    "url": "https://www.coop.nl/product/8720182525222",
+    "brand": "Unilever Nederland B.V.",
+    "price": 3.14,
+    "unit": "300 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/4a840000-ff27-0003-0554-08db3f39951a/images/AW0HA3GItENDpZ-NPK0ohvI./AACESif-AwCfEAjbP9Kjwg.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Knorr Groentepasta spaghetti spinazie",
+    "url": "https://www.coop.nl/product/8720182525291",
+    "brand": "Unilever Nederland B.V.",
+    "price": 3.14,
+    "unit": "300 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/4a840000-ff27-0003-110d-08db3f3996a9/images/AW0HA3GItENDpZ-NPK0ohvI./AACESif-AwAmMQjbP9Kj5g.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Grand'Italia Tortellini ai formaggi",
+    "url": "https://www.coop.nl/product/8000050023259",
+    "brand": "GranFood B.V.",
+    "price": 3.14,
+    "unit": "220 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/07ce0000-ff41-0003-7860-08d3b6bee968/images/AW0HA3GItENDpZ-NPK0ohvI./AAQM9CQ6DQBmYwjbtPN8xw.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Djawa Tamarinde pasta",
+    "url": "https://www.coop.nl/product/8710161532914",
+    "brand": "Vanka-Kawat Daily Amsterdam B.V.",
+    "price": 3.1,
+    "unit": "200 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/79360000-ff27-0003-14db-08d87a644f1b/images/AW0HA3GItENDpZ-NPK0ohvI./AACP7tVE7_ZzEgjYhXW6YA.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Grand'Italia Pasta macaroni tradizionale",
+    "url": "https://www.coop.nl/product/8000050026199",
+    "brand": "GranFood B.V.",
+    "price": 1.89,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/6e790000-ff4b-0003-be58-08d67491dd5e/images/AW0HA3GItENDpZ-NPK0ohvI./AADDJSf-AwAnXwjXzOl8nQ.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Selezione Ristorante Gevulde pasta basilicum",
+    "url": "https://www.coop.nl/product/8710624322014",
+    "brand": "Superunie",
+    "price": 2.99,
+    "unit": "250 g",
+    "isPromo": true,
+    "promoDetails": "1 + 1 gratis",
+    "image": "https://syndy-content.azureedge.net/media/products/505b0000-ff27-0003-1a2a-08d832337e6e/images/AW0HA3GItENDpZ-NPK0ohvI./AAD9gCf-AwB9BgjYU6vryg.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Grand'Italia Tagliatelle",
+    "url": "https://www.coop.nl/product/8000050840924",
+    "brand": "GranFood B.V.",
+    "price": 3.62,
+    "unit": "500 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/801dc5f0-b27d-44b1-83ba-009a1fc3a614/images/AW0HA3GItENDpZ-NPK0ohvI./AADDJSf-AwCzIQjXzOmN_Q.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Grand'Italia Tortellini formaggi",
+    "url": "https://www.coop.nl/product/8000050023242",
+    "brand": "GranFood B.V.",
+    "price": 5.24,
+    "unit": "440 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/3ef90000-ff41-0003-062b-08d3af355f86/images/AW0HA3GItENDpZ-NPK0ohvI./AABwTif-AwBIFgjaKBNjhw.670x670.jpg"
+  },
+  {
+    "provider": "Coop",
+    "title": "Bio+ Tagliatelle",
+    "url": "https://www.coop.nl/product/8710624293321",
+    "brand": "Superunie",
+    "price": 1.42,
+    "unit": "375 g",
+    "isPromo": true,
+    "promoDetails": false,
+    "image": "https://syndy-content.azureedge.net/media/products/2d740000-ff27-0003-caa3-08d71f190cb5/images/AW0HA3GItENDpZ-NPK0ohvI./AABKcyf-AwAGPgjZuUcv0g.670x670.jpg"
+  }
+]
